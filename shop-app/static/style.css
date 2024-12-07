@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #343a40; /* Dark background */
+}
+
+.navbar-brand {
+    color: white !important; /* White brand color */
+}
+
+.nav-link {
+    color: white !important; /* White link color */
+}
+
+.nav-link:hover {
+    color: #f8f9fa !important; /* Light on hover */
+}
+
+.navbar-toggler-icon {
+    background-color: #f8f9fa; /* Light icon for mobile */
+}
